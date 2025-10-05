@@ -624,7 +624,9 @@ button {
 /*-----BANNER START (UPDATED & FIXED)-----*/
 .tf__banner {
     height: 100vh;
-    background: url("/smit/devsaidul.com/tf/Eduor/images/student.jpg") no-repeat right center !important;
+    background: url(../images/student.jpg) no-repeat right center !important;
+
+
     background-size: contain !important;
     position: relative;
     display: flex;
